@@ -10,4 +10,7 @@ Technologies Used
  - JavaScript
  - Netlify (Hosting)
 
+### Check it out Here!
+### [Cash Register Manager](https://cashregistermanagerbyvansh.netlify.app/)
+
 https://user-images.githubusercontent.com/81517284/126500255-53085c4a-f605-4305-b1bc-b64d7efa0af4.mp4
